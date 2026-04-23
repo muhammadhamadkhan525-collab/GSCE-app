@@ -1,0 +1,240 @@
+{
+    "quizzes": {
+        "biosample": {
+            "data": {
+                "questions": [
+                    {
+                        "question": "Which of the following subcellular structures is typically found in a plant cell but NOT in an animal cell?",
+                        "options": [
+                            "Mitochondrion",
+                            "Ribosome",
+                            "Cell wall",
+                            "Nucleus"
+                        ],
+                        "answer": "Cell wall",
+                        "hint": "Think about the main structural differences that allow plants to stand upright."
+                    },
+                    {
+                        "question": "What is the primary function of the permanent vacuole in a plant cell?",
+                        "options": [
+                            "To control cell activities",
+                            "To store cell sap and keep the cell turgid",
+                            "To carry out aerobic respiration",
+                            "To synthesise proteins"
+                        ],
+                        "answer": "To store cell sap and keep the cell turgid",
+                        "hint": "Consider what 'turgid' means for a cell."
+                    },
+                    {
+                        "question": "Which subcellular structure contains the green pigment chlorophyll and is the site of photosynthesis?",
+                        "options": [
+                            "Mitochondrion",
+                            "Chloroplast",
+                            "Cytoplasm",
+                            "Cell membrane"
+                        ],
+                        "answer": "Chloroplast",
+                        "hint": "This structure is essential for a plant's ability to produce its own food."
+                    },
+                    {
+                        "question": "What is the main role of guard cells in a plant leaf?",
+                        "options": [
+                            "To absorb water and mineral ions from the soil",
+                            "To transport glucose around the plant",
+                            "To control the opening and closing of stomata",
+                            "To absorb light for photosynthesis"
+                        ],
+                        "answer": "To control the opening and closing of stomata",
+                        "hint": "These cells regulate gas exchange and water loss."
+                    },
+                    {
+                        "question": "Where are palisade cells predominantly located in a leaf?",
+                        "options": [
+                            "On the underside of the leaf",
+                            "In the plant stem",
+                            "At the top of the leaf",
+                            "On the outside surface of roots"
+                        ],
+                        "answer": "At the top of the leaf",
+                        "hint": "Their location is adapted for maximum light absorption."
+                    },
+                    {
+                        "question": "Which specialised plant cell is responsible for transporting water upwards from the roots to the leaves?",
+                        "options": [
+                            "Phloem",
+                            "Root hair cell",
+                            "Guard cell",
+                            "Xylem"
+                        ],
+                        "answer": "Xylem",
+                        "hint": "This transport system is often compared to plumbing in a building."
+                    },
+                    {
+                        "question": "Which adaptation of root hair cells helps them to absorb water and mineral ions efficiently?",
+                        "options": [
+                            "Many chloroplasts",
+                            "Thickened cell walls with lignin",
+                            "Long, thin hair-like projections",
+                            "Sieve plates with small holes"
+                        ],
+                        "answer": "Long, thin hair-like projections",
+                        "hint": "Think about how surface area affects absorption."
+                    },
+                    {
+                        "question": "Why do root hair cells typically not contain chloroplasts?",
+                        "options": [
+                            "They are primarily involved in glucose transport.",
+                            "They are located underground where there is no light for photosynthesis.",
+                            "They are dead cells and cannot perform metabolic functions.",
+                            "They need to store large amounts of water."
+                        ],
+                        "answer": "They are located underground where there is no light for photosynthesis.",
+                        "hint": "Chloroplasts are for photosynthesis, which requires a specific environmental factor."
+                    },
+                    {
+                        "question": "Which of the following is an adaptation of xylem cells to their function?",
+                        "options": [
+                            "They contain companion cells to transfer energy.",
+                            "Their cell walls are thickened with lignin to provide strength and support.",
+                            "They have sieve plates with small holes for transport.",
+                            "They have many chloroplasts for photosynthesis."
+                        ],
+                        "answer": "Their cell walls are thickened with lignin to provide strength and support.",
+                        "hint": "This substance makes the cell walls rigid and durable."
+                    },
+                    {
+                        "question": "How do guard cells primarily control the opening and closing of the stomata?",
+                        "options": [
+                            "By actively transporting glucose into the stomata.",
+                            "By changing shape due to the absorption and loss of water.",
+                            "By secreting a chemical signal to nearby cells.",
+                            "By increasing the rate of photosynthesis in their chloroplasts."
+                        ],
+                        "answer": "By changing shape due to the absorption and loss of water.",
+                        "hint": "Their turgidity is key to their function."
+                    }
+                ]
+            },
+            "attempts": 0,
+            "best_score": 0
+        },
+        "biosample2": {
+            "data": {
+                "questions": [
+                    {
+                        "question": "What is a defining characteristic of a eukaryotic cell?",
+                        "options": [
+                            "It lacks a cell membrane.",
+                            "Its DNA is free floating in the cytoplasm.",
+                            "It contains a membrane-bound nucleus.",
+                            "It is always unicellular."
+                        ],
+                        "answer": "It contains a membrane-bound nucleus.",
+                        "hint": "Look for the key structure related to DNA containment."
+                    },
+                    {
+                        "question": "In prokaryotic cells, where is the genetic material (DNA) typically found?",
+                        "options": [
+                            "Within a membrane-bound nucleus.",
+                            "Inside mitochondria.",
+                            "Free floating in the cytoplasm.",
+                            "Enclosed within chloroplasts."
+                        ],
+                        "answer": "Free floating in the cytoplasm.",
+                        "hint": "Remember what prokaryotic cells *lack* regarding their nucleus."
+                    },
+                    {
+                        "question": "Which term describes an organism that consists of only one cell?",
+                        "options": [
+                            "Multicellular",
+                            "Prokaryotic",
+                            "Eukaryotic",
+                            "Unicellular"
+                        ],
+                        "answer": "Unicellular",
+                        "hint": "The prefix 'uni-' means one."
+                    },
+                    {
+                        "question": "Which of the following is an example of a prokaryotic organism mentioned in the text?",
+                        "options": [
+                            "Animal cell",
+                            "Plant cell",
+                            "Bacterium",
+                            "Fungus (yeast)"
+                        ],
+                        "answer": "Bacterium",
+                        "hint": "Think about the simplest cell type discussed."
+                    },
+                    {
+                        "question": "Which of these sub-cellular structures is found in eukaryotic cells but generally absent in prokaryotic cells?",
+                        "options": [
+                            "Ribosome",
+                            "Cell membrane",
+                            "Cytoplasm",
+                            "Mitochondrion"
+                        ],
+                        "answer": "Mitochondrion",
+                        "hint": "Consider structures that are *membrane-bound*."
+                    },
+                    {
+                        "question": "What is a common feature shared by both prokaryotic and eukaryotic cells?",
+                        "options": [
+                            "A membrane-bound nucleus",
+                            "Chloroplasts",
+                            "Genetic material (DNA)",
+                            "Mitochondria"
+                        ],
+                        "answer": "Genetic material (DNA)",
+                        "hint": "Look for the basic components that all living cells possess."
+                    },
+                    {
+                        "question": "How do prokaryotic cells, such as bacteria, typically divide?",
+                        "options": [
+                            "By mitosis",
+                            "By meiosis",
+                            "By binary fission",
+                            "By budding"
+                        ],
+                        "answer": "By binary fission",
+                        "hint": "This is a specific type of asexual reproduction for simpler cells."
+                    },
+                    {
+                        "question": "Which statement about cell walls in eukaryotic organisms is correct according to the text?",
+                        "options": [
+                            "All eukaryotic cells have a cell wall.",
+                            "Animal cells have a cell wall made of cellulose.",
+                            "Plant cells and yeast cells have cell walls, but animal cells do not.",
+                            "Only plant cells have cell walls."
+                        ],
+                        "answer": "Plant cells and yeast cells have cell walls, but animal cells do not.",
+                        "hint": "Pay attention to the specific examples of eukaryotic cells and their cell wall presence."
+                    },
+                    {
+                        "question": "What is the typical length range for a prokaryotic cell?",
+                        "options": [
+                            "5-100 \u00b5m",
+                            "1-5 \u00b5m",
+                            "Over 100 \u00b5m",
+                            "Less than 1 \u00b5m"
+                        ],
+                        "answer": "1-5 \u00b5m",
+                        "hint": "Prokaryotic cells are generally much smaller than eukaryotic cells."
+                    },
+                    {
+                        "question": "If an organism is described as 'multicellular', what does this mean?",
+                        "options": [
+                            "It has a membrane-bound nucleus.",
+                            "It consists of only one cell.",
+                            "It is made up of more than one cell.",
+                            "Its DNA is free-floating in the cytoplasm."
+                        ],
+                        "answer": "It is made up of more than one cell.",
+                        "hint": "The prefix 'multi-' implies many."
+                    }
+                ]
+            },
+            "attempts": 0,
+            "best_score": 0
+        }
+    }
+}
